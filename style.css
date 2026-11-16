@@ -24,3 +24,7 @@ body{cursor:default}a[href],button{cursor:pointer}
 .about-copy>p:not(.large-copy){text-align:justify}
 
 .mock-content a.mock-button{display:block;text-decoration:none}
+
+.whatsapp-link{display:inline-flex;align-items:center;gap:7px}.whatsapp-icon{width:16px;height:16px;flex:none}
+
+.whatsapp-link{vertical-align:middle;line-height:1}
